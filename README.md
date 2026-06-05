@@ -16,7 +16,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 4.Update Cluster Centroids Recalculate the centroid of each cluster by taking the mean of all data points assigned to it.
 
-5.Repeat Until Convergence Continue assigning points and updating centroids until the centroids no longer change significantly and final customer segments are formed.
+5.Repeat Until Convergence Continue assigning points and updating centroids until the centroids no longer change significantly and final customer segments are formed..
 
 ## Program:
 ```
